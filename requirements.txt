@@ -1,6 +1,5 @@
 streamlit
 plotly
 speechrecognition
-pyaudio
 scikit-learn
 numpy
