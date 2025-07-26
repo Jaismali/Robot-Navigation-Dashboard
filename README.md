@@ -56,7 +56,7 @@ Make sure PyAudio is installed for voice commands:
 pip install pyaudio
 ```
 🌐 On Streamlit Cloud
-Hosted link: https://jaismali-robot-navigation-dashboard.streamlit.app
+Hosted link: https://robot-navigation-dashboard-fcasgissaglfu9dqvacldt.streamlit.app/ 
 
 > ⚠️ The following features are only available when run **locally**:
 > - Voice input via microphone
